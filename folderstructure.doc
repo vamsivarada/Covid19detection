@@ -1,0 +1,76 @@
+Folder PATH listing for volume Windows
+Volume serial number is 760A-237A
+C:.
+|   Covid_GUI.py
+|   covid_video.mp4
+|   folderstructure.doc
+|   model.model
+|   plot.png
+|   test_covid_images.py
+|   train_covid19.py
+|   
++---.idea
+|       Detect-CoronaVirus-Tensorflow-master.iml
+|       encodings.xml
+|       misc.xml
+|       modules.xml
+|       workspace.xml
+|       
++---dataset
+|   +---covid
+|   |       1-s2.0-S0140673620303706-fx1_lrg.jpg
+|   |       1-s2.0-S0929664620300449-gr2_lrg-a.jpg
+|   |       1-s2.0-S0929664620300449-gr2_lrg-b.jpg
+|   |       1-s2.0-S0929664620300449-gr2_lrg-c.jpg
+|   |       1-s2.0-S0929664620300449-gr2_lrg-d.jpg
+|   |       auntminnie-a-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg
+|   |       auntminnie-b-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg
+|   |       auntminnie-c-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg
+|   |       auntminnie-d-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg
+|   |       lancet-case2a.jpg
+|   |       lancet-case2b.jpg
+|   |       nCoV-radiol.2020200269.fig1-day7.jpeg
+|   |       nejmc2001573_f1a.jpeg
+|   |       nejmc2001573_f1b.jpeg
+|   |       nejmoa2001191_f1-PA.jpeg
+|   |       nejmoa2001191_f3-PA.jpeg
+|   |       nejmoa2001191_f4.jpeg
+|   |       nejmoa2001191_f5-PA.jpeg
+|   |       radiol.2020200490.fig3.jpeg
+|   |       radiopedia-covid-19-pneumonia-2.jpg
+|   |       ryct.2020200028.fig1a.jpeg
+|   |       ryct.2020200034.fig2.jpeg
+|   |       ryct.2020200034.fig5-day0.jpeg
+|   |       ryct.2020200034.fig5-day4.jpeg
+|   |       ryct.2020200034.fig5-day7.jpeg
+|   |       
+|   \---normal
+|           IM-0033-0001-0001.jpeg
+|           IM-0240-0001.jpeg
+|           IM-0466-0001.jpeg
+|           NORMAL2-IM-0315-0001.jpeg
+|           NORMAL2-IM-0696-0001.jpeg
+|           NORMAL2-IM-0869-0001.jpeg
+|           NORMAL2-IM-1179-0001.jpeg
+|           person1102_bacteria_3043.jpeg
+|           person1290_virus_2215.jpeg
+|           person1558_bacteria_4066.jpeg
+|           person1599_virus_2776.jpeg
+|           person1830_bacteria_4693.jpeg
+|           person1935_bacteria_4849.jpeg
+|           person1_bacteria_2.jpeg
+|           person259_bacteria_1220.jpeg
+|           person339_bacteria_1574.jpeg
+|           person378_virus_761.jpeg
+|           person438_bacteria_1893.jpeg
+|           person525_bacteria_2216.jpeg
+|           person612_bacteria_2478.jpeg
+|           person651_bacteria_2543.jpeg
+|           person925_virus_1582.jpeg
+|           person934_virus_1595.jpeg
+|           person939_bacteria_2864.jpeg
+|           person989_virus_1667.jpeg
+|           
+\---__pycache__
+        test_covid_images.cpython-37.pyc
+        
