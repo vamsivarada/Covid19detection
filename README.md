@@ -7,4 +7,4 @@ Note: This Demo doesn't say that X-ray images are the best approach for identify
 #vgg16 #keras #fightcoronavirus #staysafestayhome
 
 To run this project you need to run train_covid19.
-To test this project you can just run Covid_GUI and choose the xray image it tells you whether the person infected with carona virus or not.
+To test this project you can just run Covid_GUI and choose the xray image it tells you whether the person infected with carona virus or not..
